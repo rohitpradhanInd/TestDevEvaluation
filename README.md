@@ -4,7 +4,7 @@
 
 [![Swift Version][swift-image]][swift-url]
 
-One to two paragraph statement about your product and what it does.
+Create a native iOS application, using Swift, and any frameworks/open source libraries required, that supports iOS 8+, that does the following:
 
 ![](header.png)
 
