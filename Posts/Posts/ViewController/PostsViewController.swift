@@ -33,7 +33,7 @@ class PostsViewController: UIViewController {
         if #available(iOS 10.0, *) {
             postTableView.refreshControl = refreshControl
         } else {
-            // Fallback on earlier versions
+            postTableView.addSubview(refreshControl)
         }
         refreshControl.addTarget(self, action: #selector(refreshList), for: .valueChanged)
     }
