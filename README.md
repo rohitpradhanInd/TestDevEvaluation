@@ -28,7 +28,6 @@ One to two paragraph statement about your product and what it does.
 
 #### Manually
 1. Download and open ```Posts..xcodeproj``` in your Xcode.  
-2. Congratulations!  
 
 
 
