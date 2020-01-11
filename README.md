@@ -10,7 +10,7 @@ Create a native iOS application, using Swift, and any frameworks/open source lib
 
 ## Features
 
-- [x] Fetch posts from this API https://hn.algolia.com/api/v1/search_by_date?tags=story&page=1 via a GET request.
+- [x] Fetch posts from this API .
 - [x] Display the posts in a list, with each element displaying the post title, created_at, as well as a switch/toggle that is deselected by default.
 - [x] Clicking a post should activate/deactivate the switch and select/deselect the post.
 - [x] The nav bar should display the number of the selected posts.
