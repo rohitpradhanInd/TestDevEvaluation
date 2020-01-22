@@ -18,6 +18,6 @@ default_platform(:ios)
 platform :ios do
   desc "Description of what the lane does"
   lane :createIPA do
-      puts("this is my first 🚀 lane")
+      build_app(scheme: "Posts")
   end
 end
